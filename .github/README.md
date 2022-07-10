@@ -52,10 +52,6 @@
 <a href="https://replit.com/@ShadowKing9o/Friday-Music-Bot?v=1"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
-## 🖇 VPS Deployment
-
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
 
 # 🏷 Support / Assistance
 
