@@ -1,3 +1,14 @@
+<img src="https://telegra.ph/file/47af2cb6b86bb87055ba2.jpg" align="center" width="400" height="400"/>
+
+# Friday Music Bot 
+
+[Friday Music Bot](https://github.com/ShadowKing9/FridayMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+
+* Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
+* Written from scratch, making it stable and less crashes with attractive thumbnails.
+* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
+* Multi-Language support
+
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
@@ -23,17 +34,6 @@
     <img src="https://img.shields.io/badge/Subscribe-Shadow%20Arena-%23FA0606?style=for-the-badge&logo=Youtube" width="300">
   </a>
 </p>
-
-<img src="https://telegra.ph/file/47af2cb6b86bb87055ba2.jpg" align="center" width="400" height="400"/>
-
-# Friday Music Bot 
-
-[Friday Music Bot](https://github.com/ShadowKing9/FridayMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
-
-* Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes with attractive thumbnails.
-* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Multi-Language support
 
 ## Deploy
 
