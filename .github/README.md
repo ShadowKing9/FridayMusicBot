@@ -36,6 +36,18 @@
   </a>
 </p>
 
+## Features
+- [x] Voice Chat Player
+- [x] Video Chat Player
+- [x] In-built Playlist
+- [x] Lyrics Downloader
+- [x] YT Video Downloader
+- [x] YT Song Downloader
+- [x] Broadcast
+- [x] In-built Heroku ENV Variable setter
+- [x] Restrictions
+- [x] 9-Laguages Support
+
 ## Deploy
 
 <details><summary>Deploy to Heroku</summary>
