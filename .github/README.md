@@ -78,7 +78,7 @@
 * `UPSTREAM_BRANCH`: Branch name from which the codes going to work. 
 * `UPSTREAM_REPO`: Base repo link, better not to touch it. 
 
-## Admin Commands
+### Admin Commands
 ```
 start - Start the music bot. 
 help - Get Commands helper menu. 
@@ -92,7 +92,7 @@ queue - Check queue of music.
 settings - Get complete group settings
 ```
   
-# 🏷 Support / Assistance
+#### 🏷 Support / Assistance
 
 Reach out to the maintainer at one of the following places:
 
@@ -107,7 +107,7 @@ If you want to say **thank you** or/and support active development of YukkiMusic
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make **YukkiMusicBot** better!
-# 📑 Acknowledgement / Credits
+#### 📑 Acknowledgement / Credits
 
 Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
 
