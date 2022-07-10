@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/47af2cb6b86bb87055ba2.jpg" align="right" width="350" height="350"/>
+<img src="https://telegra.ph/file/f94c840f80c54492f6d8c.jpg" align="right" width="350" height="350"/>
 
 # Friday Music Bot 
 
