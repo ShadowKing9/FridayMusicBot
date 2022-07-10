@@ -24,11 +24,11 @@
     &nbsp;<img src="https://img.shields.io/badge/Movie%20Addaa-Group-blue?style=plastic&logo=Telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/MasterShad0w/IMDb-Movie-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MasterShad0w/IMDb-Movie-Bot?style=social">
+  <a href="https://github.com/ShadowKing9/FridayMusicBot/stargazers">
+    <img src="https://img.shields.io/github/stars/ShadowKing9/FridayMusicBot?style=social">
   </a>
-  <a href="https://github.com/MasterShad0w/IMDb-Movie-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MasterShad0w/IMDb-Movie-Bot?label=Fork&style=social">
+  <a href="https://github.com/ShadowKing9/FridayMusicBot/fork">
+    <img src="https://img.shields.io/github/forks/ShadowKing9/FridayMusicBot?label=Fork&style=social">
   </a>  
   <br>
   <a href="https://youtube.com/channel/UCqVIzF-2AhO_pY4uo8Rr5Hg">
