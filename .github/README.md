@@ -64,7 +64,7 @@
 <a href="https://replit.com/@ShadowKing9o/Friday-Music-Bot?v=1"><img src="https://img.shields.io/badge/Generate%20On%20Replit-black?style=for-the-badge&logo=replit" width="200""/></a>
 </p>
 
-### Required Variables
+## Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [Shadow Scrapper](https://t.me/ShadowScrapperBot)
 * `API_HASH`: Get this value from [Shadow Scrapper](https://t.me/ShadowScrapperBot)
@@ -78,7 +78,7 @@
 * `UPSTREAM_BRANCH`: Branch name from which the codes going to work. 
 * `UPSTREAM_REPO`: Base repo link, better not to touch it. 
 
-### Admin Commands
+## Admin Commands
 ```
 start - Start the music bot. 
 help - Get Commands helper menu. 
@@ -92,7 +92,7 @@ queue - Check queue of music.
 settings - Get complete group settings
 ```
   
-#### 🏷 Support / Assistance
+## 🏷 Support / Assistance
 
 Reach out to the maintainer at one of the following places:
 
@@ -107,13 +107,13 @@ If you want to say **thank you** or/and support active development of YukkiMusic
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make **YukkiMusicBot** better!
-#### 📑 Acknowledgement / Credits
+## 📑 Acknowledgement / Credits
 
 Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
+- [Code 𝕏 Botz Support](https://t.me/codexbotzsupport) <= Code Providet
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
 
