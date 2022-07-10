@@ -2,21 +2,22 @@
 
 # Friday Music Bot 
 
-[Friday Music Bot](https://github.com/ShadowKing9/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Friday Music Bot](https://github.com/ShadowKing9/FridayMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
 
+## Deploy
 
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
-
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-
-## ⚠️ Heroku / Okteto / Railway
-
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
+<details><summary>Deploy to Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/ShadowKing9/FridayMusicBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</p>
+</details>
 
 ## 🖇 Generating Pyrogram String Session
 
