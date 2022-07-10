@@ -113,7 +113,7 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [Code 𝕏 Botz Support](https://t.me/codexbotzsupport) <= Code Providet
+- [Code 𝕏 Botz Support](https://t.me/codexbotzsupport) {= Code ProvideProvider
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
 
