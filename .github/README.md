@@ -40,6 +40,7 @@
 - [x] Voice Chat Player
 - [x] Video Chat Player
 - [x] In-built Playlist
+- [x] In-built Player Controller
 - [x] Lyrics Downloader
 - [x] YT Video Downloader
 - [x] YT Song Downloader
